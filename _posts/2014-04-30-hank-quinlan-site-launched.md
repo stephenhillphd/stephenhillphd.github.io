@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Launching a GitHub Pages Site"
+date: 2020-03-17
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Amidst the ongoing COVID-19 (Coronavirus) outbreak, I have some newfound free time. The courses that I teach at the [University of North Carolina Wilmington] (http://uncw.edu) have moved fully online. Fortunately, I have quite a bit of online teaching experience and I only had one face-to-face class anyway. So the transition to fully online has, thusfar, been a smooth one. 
+
+This site is hosted on GitHub as a GitHub Page and is powered by [Jekyll](http://jekyllrb.com). I'm adding content using Markdown.
