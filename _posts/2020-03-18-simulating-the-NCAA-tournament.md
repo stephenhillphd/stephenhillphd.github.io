@@ -20,4 +20,5 @@ Stanford defeated UCLA 83-69 in a rare, early-round intra-conference matchup. UC
 **(16) Robert Morris vs. (16) NC Central**
 NC Central knocked off Robert Morris 72-63 and advances to play overall Number 1 seed Kansas. NCCU led by six at halftime and withstood a late Robert Morris rally.  
 
-**(16) Siena vs. (16) Prarie View**
+**(16) Siena vs. (16) Prairie View**
+Siena missed a potential game-tying shot with three seconds remaining and fell to Prairie View 92-90. Prairie View is rewarded for their win with a match-up against Gonzaga.
