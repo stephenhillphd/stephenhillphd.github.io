@@ -13,3 +13,9 @@ Today we look at the "First Four" play-in games that would have taken place Marc
 
 **(11) Wichita State vs. (11) Richmond**
 
+**(11) Stanford vs. (11) UCLA**
+
+**(16) Robert Morris vs. (16) NC Central**
+NC Central knocks off Robert Morris 72-63 and advances to play overall Number 1 seed Kansas.  
+
+**(16) Siena vs. (16) Prarie View**
