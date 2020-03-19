@@ -28,7 +28,7 @@ Iowa ran away from Xavier in the second half for an 84-68 win. The Musketeers en
 **(2) San Diego State vs. (15) Eastern Washington**
 A four point halftime lead gave Eastern Washington some hope for a huge upset, but the Aztecs rolled in the second half, winning 92-77. The Big Sky champion Eagles complete their season at 23-9. 
 
-**Second Round West Region Matchups**
+**Second Round West Region Matchups**  
 (1) Gonzaga vs. (8) Houston  
 (5) Penn State vs. (4) Oregon  
 (6) BYU vs. (14) Hoftstra  
