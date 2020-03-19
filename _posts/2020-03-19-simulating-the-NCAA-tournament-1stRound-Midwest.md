@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulating the 2020 NCAA Tournament - West Region First Round"
+title: "Simulating the 2020 NCAA Tournament - Midwest Region First Round"
 date: 2020-03-19
 ---
 
