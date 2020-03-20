@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simulating the 2020 NCAA Tournament - West Region First Round"
-date: 2020-03-19
+date: 2020-03-20
 ---
 
 **(1) Gonzaga vs. (16) Prairie View**  
