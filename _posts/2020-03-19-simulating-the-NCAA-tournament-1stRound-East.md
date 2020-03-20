@@ -29,7 +29,7 @@ USC eliminated Indiana 89-78. The Trojans ran out to an early lead that they nev
 Villanova trailed North Dakota State by 14 at the half in a game that looked like it might be headed for a rout. However, a furious rally capped off by a three with less than 30 seconds remaining sent Villanova to the Second Round with 72-70 win.  
 
 **Second Round East Region Matchups**    
-(1) Dayton vs. (8) Houston   
+(1) Dayton vs. (8) St. Mary's     
 (12) Akron vs. (13) Liberty    
 (3) Michigan State vs. (11) Rutgers    
 (2) Villanova vs. (7) USC  
