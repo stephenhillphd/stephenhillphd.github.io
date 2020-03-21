@@ -4,32 +4,32 @@ title: "Simulating the 2020 NCAA Tournament - South Region First Round"
 date: 2020-03-20
 ---
 
-**(1) Dayton vs. (16) Winthrop**    
-It took a contested three-pointer from Dayton with 16 seconds left in regulation and a missed Winthrop three at the buzzer to send this contest into overtime and avoid only the second 16 Seed over 1 Seed upset in tournament history. Dayton survived overtime to win 98-92. 
+**(1) Baylor vs. (16) Boston**    
+Baylor escaped a gritty effort from Boston with a short, game-winning shot at the buzzer to win 67-65. Boston led at the half, but could not close out what would have been a shocking upset.    
 
-**(8) St. Mary's vs. (9) Oklahoma**  
-St. Mary's cruised to an 82-63 win over Oklahoma. The Gaels led by 12 early in the first half and were not threatened.   
+**(8) Marquette vs. (9) Arizona**  
+Marquette eliminated Arizona 87-78 to advance to the Second Round. Arizona led at the half, but was unable to build on their lead.  
 
-**(5) Auburn vs. (12) Akron**    
-The MAC champion Zips upset last year's Final Four participant Auburn 91-83. The Tigers closed to within two late, but could not complete the comeback.  
+**(5) Ohio State vs. (12) Yale**    
+The Ivy League champions fell to the Buckeyes 88-79. Ohio State led at the half and slowly extended their lead to eliminate Yale.    
 
-**(4) Louisville vs. (13) Liberty**  
-The Flames upset Louisville 74-72 to move on to the Second Round. A shot from just inside the three-point line at the buzzer capped off the upset.  
+**(4) Butler vs. (13) Bradley**  
+Bradley stunned the Bulldogs 72-62 to advance to the Second Round.    
 
-**(6) West Virginia vs. (11) Rutgers**  
-Rutgers long-awaited appearance in the NCAA tournament continues for a second game as they defeated West Virginia 72-70.   
+**(6) Virginia vs. (11) Wichita State**  
+Back-to-back championship hopes remain alive for Virginia as they knocked off Wichita State 61-56.     
 
-**(3) Michigan State vs. (14) North Texas**   
-Michigan State pulled away late from a pesky North Texas team winning 89-81.  
+**(3) Maryland vs. (14) UC Irvine**   
+The Anteaters were unable to pull off the upset today as they were thoroughly dominated by the Terrapins. Maryland wins 85-66 to advance to the Second Round.    
 
-**(7) USC vs. (10) Indiana**  
-USC eliminated Indiana 89-78. The Trojans ran out to an early lead that they never relinquished.  
+**(7) Providence vs. (10) LSU**  
+LSU knocked off Providence 88-78 in a victory that was more comfortable than the final score indicated.    
 
-**(2) Villanova vs. (15) North Dakota State**  
-Villanova trailed North Dakota State by 14 at the half in a game that looked like it might be headed for a rout. However, a furious rally capped off by a three with less than 30 seconds remaining sent Villanova to the Second Round with 72-70 win.  
+**(2) Florida State vs. (15) Northern Kentucky**  
+The Seminoles jumped out a halftime lead and then held on to defeat Northern Kentucky 80-71.  
 
 **Second Round East Region Matchups**    
-(1) Dayton vs. (8) St. Mary's     
-(12) Akron vs. (13) Liberty    
-(3) Michigan State vs. (11) Rutgers    
-(2) Villanova vs. (7) USC  
+(1) Baylor vs. (8) Marquette       
+(5) Ohio State vs. (13) Bradley    
+(3) Maryland vs. (6) Virginia    
+(2) Florida State vs. (10) LSU  
