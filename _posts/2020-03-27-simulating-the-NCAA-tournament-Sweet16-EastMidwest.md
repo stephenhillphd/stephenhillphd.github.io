@@ -16,7 +16,8 @@ Rutgers kept their dream tournament run alive with a 72-71 victory over Villanov
 Devon Dotson's 22 points fueled the Jayhawks to an easy 71-55 victory over Kentucky. Kansas led at the break and never allowed Kentucky to get within ten points in the second half.  
 
 **(3) Duke vs. (10) Utah State**  
+A tie game at half opened into a Duke blowout and the Blue Devils extinguished the Aggies unlikely tournament run 97-79. Duke's Vernon Carey led all scorers with 24 points.  
 
 **Elite 8 Matchups**    
-EAST: (1) Dayton vs. (11) Rutgers         
-MIDWEST: (1) Kansas vs.    
+EAST: (1) Dayton vs. (11) Rutgers           
+MIDWEST: (1) Kansas vs. (3) Duke    
