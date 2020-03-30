@@ -17,7 +17,7 @@ The MAC champion Zips upset last year's Final Four participant Auburn 91-83. The
 The Flames upset Louisville 74-72 to move on to the Second Round. A shot from just inside the three-point line at the buzzer capped off the upset.  
 
 **(6) West Virginia vs. (11) Rutgers**  
-Rutgers long-awaited appearance in the NCAA tournament continues for a second game as they defeated West Virginia 72-70.   
+Rutgers long-awaited reappearance in the NCAA tournament continues for a second game as they defeated West Virginia 72-70.   
 
 **(3) Michigan State vs. (14) North Texas**   
 Michigan State pulled away late from a pesky North Texas team winning 89-81.  
