@@ -16,3 +16,4 @@ Maryland led by six at the break (38-32) and extended their lead in the second h
 
 **FINAL**
 **Kansas vs. Maryland**
+The 2019/2020 season ended in an anticlimactic way as Kansas, the heavy favorite, cruised to an easy win over Maryland, 88-66. Maryland's 10-9 lead with 13:31 left in the first half would be their last as the Jayhawks ran out to a 43-30 halftime lead. The second half was not much better for Maryland. Devon Dotson led all scorers with 28 points for Kansas. Jalen Smith and Eric Ayala had 14 each for Maryland. Kansas wins its fourth national title and its first since 2008. 
