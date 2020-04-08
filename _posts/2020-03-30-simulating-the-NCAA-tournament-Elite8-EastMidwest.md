@@ -12,5 +12,5 @@ Rutgers led by four at the half and slowly pulled away. Akwasi Yeboah led all sc
 **MIDWEST**  
 **(1) Kansas vs. (3) Duke**  
 The Jayhawks advance to their 16th Final Four with an 88-79 victory over fellow college basketball power Duke. The Blue Devils led by four with just under eight minutes to play, but went cold from the floor to allow the Jayhawks to build a lead. 
-Devon Dotson scored 23 in the loss.  
+Devon Dotson scored 23.  
 
